@@ -48,7 +48,9 @@ Because of the recharge-discharge time, our number of Voltorbs increase even fur
 Personally, I would like to maximize Voltorbs' chances of **NOT EXPLODING** we should create pots that have good breathing space for the Voltorbs, which means that Voltorbs should keep a distance equal to their circumference (height - they are spheres!) from each other and from the walls. Therefore, our cubic/rectangular prism should be of Volume of [(2n + 1) * 0.5]^2 * height(0.5 * 2). So we have 3 pots in total:
 - If we want a horizontally built power plant: 3 * [(2n + 1) * 0.5]^2 * 1, where n = total number of Voltorbs.
 - If we want a verticall stacked power plant: [(2n + 1) * 0.5]^2 * (1 * 3), where n = total number of Voltorbs. (Seems like there's no difference...)
+
 **Explanation**
+
 we want the Voltorbs to distance themselves from each other and the wall so (Wall: #, distance: -, Voltorb: @)
 Example:
 
