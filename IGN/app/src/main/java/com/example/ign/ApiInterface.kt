@@ -12,15 +12,6 @@ import retrofit2.http.GET
 import retrofit2.http.POST
 import retrofit2.http.Query
 
-private const val BASE_URL = "https://ign-apis.herokuapp.com/"
-
-private val gson = Gson().newBuilder()
-
-
-private val retrofit =Retrofit.Builder()
-    .addConverterFactory(GsonConverterFactory.create())
-    .baseUrl(BASE_URL)
-    .build()
 
 interface ApiInterface {
 
@@ -46,9 +37,4 @@ interface ApiInterface {
         @Query("ids") count: Int
     ) : Call<CommentsRoot>
 
-}
-object Api {
-    val retrofitService: ApiInterface by lazy {
-        retrofit.create(ApiInterface::class.java)
-    }
 }
