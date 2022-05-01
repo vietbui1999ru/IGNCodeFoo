@@ -1,1 +1,7 @@
-# Hi my name is Viet
+### This application process really makes me feel like Batman <9/10>. ###
+
+Hello IGN! My name is Viet Bui, and I am a current junior majoring in Computer Science and Applied Mathematics. Growing up in an Asian household, I was rarely allowed to use the computer because of a belief back then that computers would distract students from schoolwork. Even though I was yelled at by my mom many times, I still found sneaky ways to the computer to browse the Lego website and play flash games. Ever since then, I have always known that I have a special interest in computers and want to work with them when I grow up.
+
+In high school, I did not know about computer science being a possible field that I could study. It was not until I was in Introduction to Computer Science, one of my first classes in college, that my interest and intention to pursue this field were confirmed. From then, I have learned that I am excited the most about the technical and mathematical aspects of programming, such as solving programming puzzles. I usually spend way too much time on those projects instead of doing my school work, haha! However time-consuming a puzzle is, the sense of pride and accomplishment following the solving process confirms that it is worth my efforts. One of my most prided moments is my team placing 4th place out of 60 teams in a regional programming contest.
+
+I have been subscribed to IGN since the 5th grade - I was an avid watcher of IGN games and movie-related content, such as gameplay and movie trailers. IGN has always been my first stop since then when it comes to entertainment and recreation on Youtube. Combining my interest in Computer Science with my enthusiasm for IGN makes Code Foo a dream internship for me!
